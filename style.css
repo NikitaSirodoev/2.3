@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: content-box;
+}
+
+body{
+	min-width: 420px;
+	margin:0 auto;
+}
+
+.header{
+	margin:0 auto;
+	width: 100% 1960px;
+	height: auto;
+	background-color: #385899;
+	padding-top: 1.5%;
+	padding-left: 5%;
+}
+
+.sign{
+	margin: 0 auto;
+	background-color: #73ad57;
+	font-size: 100%;
+	width: 3.5%;
+	height: auto;
+	position: relative;
+	color: white;
+	padding: 0.2%;
+	right: 29%;
+	bottom: 52px;
+}
+
+.main{
+	position: relative;
+	left: 15%;													
+	width: 70%;
+	height: auto;
+	border-radius: 5px;
+	border: solid 1px black;
+}
+
+.fl{
+	padding-top: 2%;
+	margin-bottom: 2%;
+	width: 90%;
+	padding-left: 5%;
+	height: auto;
+	font-size: 20pt;
+	color: #152f5c;
+}
+
+.fl hr{
+	display: block;
+	position: relative;
+	margin-top: 2%;
+}
+
+.log{
+	position: relative;
+	left: 25%;
+	padding-top: 3%;
+	font-weight:bold;
+
+}
+
+.log div{
+	padding-bottom: 1.5%;
+}
+
+.in{
+	position: relative;
+	left: 40%;
+	margin-top: -6.5%;
+}
+
+.in input{
+	width: 20%;
+	height: auto;
+	border: solid 0.5px black;
+	border-radius: 2px;
+}
+
+.check{
+	font-size: 15px;
+	position: relative;
+	left: 40%;
+	margin-top: 3%;
+}
+
+.por button{
+	color: white;
+	background-color: #385899;
+	border: black 1px solid;
+	padding: 0.5%;
+	padding-top: 0.3%;
+	padding-bottom: 0.3%;
+}
+
+.por a{
+	text-decoration: none;
+	color: #385899;
+	font-size: 14px;
+	font-weight:bold;
+}
+
+.por{
+	position: relative;
+	left: 40%;
+	margin-top: 1%;
+}
+
+
+
